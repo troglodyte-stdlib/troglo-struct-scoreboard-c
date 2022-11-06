@@ -1,0 +1,7 @@
+[wrap-git]
+directory = troglo-utest-c
+url = https://github.com/troglodyte-stdlib/troglo-utest-c.git
+revision = main
+
+[provide]
+troglo-utest-c = trog_utest_dep
